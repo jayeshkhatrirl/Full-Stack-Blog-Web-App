@@ -6,10 +6,12 @@ It's a working projecct where we can read, write or publish and edit blogs along
 It's an amazing full stack project with attractive and amazing UI and efficient flawless backend.
 
 This is how the project looks like :
+
 (Screenshots)
 
+
 ![Screenshot (357)](https://github.com/jayeshkhatrirl/Full-Stack-Blog-Web-App/assets/77141912/d911f4a7-b6e6-4eff-9c72-5b4c2fa95bb2)
-This is how the homepage look like, simple and easy to use.
+This is how the homepage looks like, simple and easy to use.
 
 
 ![Screenshot (358)](https://github.com/jayeshkhatrirl/Full-Stack-Blog-Web-App/assets/77141912/6d3854a9-30ec-4a22-937f-d1e1ddab419a)
